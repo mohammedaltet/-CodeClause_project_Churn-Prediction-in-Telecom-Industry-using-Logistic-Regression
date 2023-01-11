@@ -17,13 +17,14 @@ dataset details:
 - Fiber optic : Customer’s internet service provider (DSL, Fiber optic, No)
 - OnlineSecurity : Whether the customer has online security or not (Yes, No, No internet service)
 
-
-
 *the dataset is from : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+from analyze we found that most important value is :
+![](images/download.png)
 
 In This Projet we used various models types 
 
-/images/Screenshot 2023-01-11 171219.png
+![](images/Screenshot1.png)
 
 we settled in Logistic-Regression from it we get : 
 
@@ -32,7 +33,9 @@ we settled in Logistic-Regression from it we get :
 - F1 Score value is  : 0.74
 with Test Score : 0.80
 
-![alt text](/images/Screenshot 2023-01-11 171250.png)
+![](/images/Screenshot2.png)
+
+
 
 
 
