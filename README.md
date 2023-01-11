@@ -22,16 +22,17 @@ dataset details:
 *the dataset is from : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 In This Projet we used various models types 
-![alt text](https://drive.google.com/file/d/19vMZ55rV7CLQrna2oIPWVqJJ3aWbixmP/view?usp=share_link)
+
+![alt text](/images/Screenshot 2023-01-11 171219.png)
 
 we settled in Logistic-Regression from it we get : 
 
 - Precision value is  : 0.76
 - Recall value is  : 0.74
 - F1 Score value is  : 0.74
-
-
 with Test Score : 0.80
+
+![alt text](/images/Screenshot 2023-01-11 171250.png)
 
 
 
