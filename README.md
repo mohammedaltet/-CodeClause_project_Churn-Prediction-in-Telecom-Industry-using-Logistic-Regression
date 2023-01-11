@@ -23,7 +23,7 @@ dataset details:
 
 In This Projet we used various models types 
 
-![alt text](/images/Screenshot 2023-01-11 171219.png)
+/images/Screenshot 2023-01-11 171219.png
 
 we settled in Logistic-Regression from it we get : 
 
